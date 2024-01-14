@@ -1,0 +1,133 @@
+ .product {
+    display: block;
+    margin-left: 350px;
+    justify-content: center;
+}
+
+.lists {
+    width: 50em;
+    height: 35%;
+    margin-bottom: 2%;
+    overflow: hidden;
+    border: 1px solid #eeeeee ;
+    display: inline-block;
+    position: relative;
+}
+
+.mylist h2 {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+
+.mylist .btn1 {
+    height: 40px;
+    padding: 0 10px;
+    width: max-content;
+    border: 1px solid #666666;
+    text-align: center;
+    
+}
+
+.mylist .btn1 .heart {
+    display: inline-block;
+    text-align: center;
+
+    
+}
+
+
+.mylist .description {
+   color: #7a7a7a;
+   margin-top: 5px;
+
+}
+
+.mylist2 .price {
+  color: #03aae8;
+
+}
+.mylist2 {
+    display: block;
+    text-align:center;
+}
+
+.lists .caisse {
+  text-align: center;
+}
+
+.caisse h1 {
+    color: #9e1f9a;
+}
+
+.caisse .btnfin {
+    background-color: #03aae8;
+}
+
+
+.termina {
+    background-color: #0d1b23;
+}
+
+.sign {
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+}
+
+.sign h1 {
+    color: white;
+    font-size: 16px;
+    
+    
+}
+
+.sign p {
+    color: white;
+    font-size: 12px;
+    
+}
+
+.sign img {
+    width: 40px;
+    height: 25px;
+}
+
+.sign1 {
+    display: block;
+    justify-content: center;
+    margin-right: 30px;
+    padding: 15px 15px 15px 25px;
+    text-align: left;
+}
+
+.sign2 {
+    display: block;
+    justify-content: center;
+    margin-right: 30px;
+    padding: 15px 15px 15px 25px;
+    text-align: left;
+
+}
+
+.sign3 {
+    display: block;
+    justify-content: center;
+    margin-right: 30px;
+    padding: 15px 15px 15px 25px;
+    text-align: left;
+}
+
+.sign4 {
+    display: block;
+    justify-content: center;
+    padding: 15px 15px 15px 25px;
+    text-align: left;
+}
+
+
+
+
